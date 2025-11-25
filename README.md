@@ -15,7 +15,7 @@ This repository contains my completed work from the Forage Academy Data Labeling
        ─ review_sets.md
        ─ guideline_improvement.md
     
-    ─ Certificate.pdf           # Optional: Forage Certificate (if included)
+    ─ Certificate.pdf           # Forage Certificate 
 
 
 ## 🚀 Overview
