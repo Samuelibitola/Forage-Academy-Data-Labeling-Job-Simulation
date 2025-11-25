@@ -3,6 +3,7 @@
 This repository includes two official guideline documents from the Forage Academy Data Labeling Job Simulation. These files demonstrate the annotation standards, decision rules, and privacy practices I followed when completing the project.
 
 ## 1. One-Page Guidelines v1.0 (Intent, Sentiment, PII)
+📄 [One Page Guidelines - Task 1.pdf](https://github.com/user-attachments/files/23754881/One.Page.Guidelines.-.Task.1.pdf)
 
 This document contains the core labeling schema used throughout the simulation. It covers:
 
@@ -25,6 +26,7 @@ This document contains the core labeling schema used throughout the simulation. 
 I used this guide to ensure consistent, accurate, and ethical annotation when labeling customer support messages.
 
 ## 2. PII Quick Card — Data Labeling
+[PII Quick Card - Task 1.pdf](https://github.com/user-attachments/files/23754895/PII.Quick.Card.-.Task.1.pdf)
 
 A compact reference sheet outlining:
 
