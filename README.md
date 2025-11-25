@@ -87,5 +87,8 @@ This job simulation was created by Forage Academy to teach foundational skills n
 
 It mimics real workflows used inside companies building AI models.
 
+## 📧 Contact
+You can connect with me professionally on LinkedIn:  
+https://www.linkedin.com/in/samuel-ibitola/
 
 # ⭐ If you find this project helpful, feel free to star the repository!
