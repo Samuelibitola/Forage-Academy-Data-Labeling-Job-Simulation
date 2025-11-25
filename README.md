@@ -71,7 +71,7 @@ I also completed a reviewer module where I evaluated work done by other labelers
 
 ## 📝 Certificate
 
-You may add your certificate in the repository root as Certificate.pdf and link it here.
+[Preview here](https://github.com/Samuelibitola/Forage-Academy-Data-Labeling-Job-Simulation/blob/main/Data%20Labelling%20Certificate.png)
 
 ## 📎 About the Simulation
 
